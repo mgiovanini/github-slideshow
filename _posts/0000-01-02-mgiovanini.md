@@ -2,5 +2,5 @@
 layout:slide
 Title: Welcome to our second slide
 ---
-Tobias Funke is the sexiest man alive
+If you want to be a cowboy put your boots on
 Use the left arrow to go back!
